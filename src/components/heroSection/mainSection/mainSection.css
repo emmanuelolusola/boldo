@@ -1,0 +1,14 @@
+.main-section {
+  background-color: #0a2640;
+}
+
+.circle {
+  display: none;
+  width: 1293px;
+  height: 1293px;
+  border-radius: 50%;
+  background-color: #1c3d5b;
+  position: relative;
+  top: -789px;
+  left: 777px;
+}
