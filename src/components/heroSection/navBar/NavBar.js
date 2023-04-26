@@ -10,15 +10,15 @@ const NavBar = () => {
       <div className="container">
         <div className="logo">
           <img src={logoShape} alt="My Logo" />
-          <h1>Boldo</h1>
+          <h1 className="h1-navbar">Boldo</h1>
         </div>
         <div className="right-side">
-          <ul>
+          <ul className="ul-navbar">
             <li>Products</li>
             <li>Services</li>
             <li>About</li>
           </ul>
-          <button>Log In</button>
+          <button className="button-navbar">Log In</button>
         </div>
       </div>
     </div>

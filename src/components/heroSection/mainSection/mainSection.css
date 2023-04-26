@@ -12,3 +12,73 @@
   top: -789px;
   left: 777px;
 }
+
+.main-container {
+  padding: 6rem;
+}
+
+.bold-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left {
+  padding-right: 15%;
+}
+
+.h1-main {
+  color: #fff;
+  font-size: 64px;
+  line-height: 72px;
+  font-weight: 400;
+}
+
+.p-main {
+  color: #fff;
+  font-family: "Manrope", san-serif;
+  font-size: 16px;
+  line-height: 28px;
+  margin-top: 16px;
+}
+
+.main-button {
+  margin-top: 40px;
+}
+
+.buy-template {
+  color: #0a2640;
+  background-color: #69e6a6;
+  border: none;
+  border-radius: 56px;
+  width: 247px;
+  height: 60px;
+  padding: 16px 56px 16px 56px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.explore {
+  margin-left: 24px;
+  color: #fff;
+  background-color: transparent;
+  border: solid #fff;
+  border-radius: 56px;
+  width: 247px;
+  height: 60px;
+  padding: 16px 56px 16px 56px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.right-down {
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-between;
+}
