@@ -23,11 +23,17 @@ ul {
   display: flex;
   list-style-type: none;
   color: #fff;
-  margin-right: 3rem;
+  margin-right: 5rem;
+  font-family: "Manrope", san-serif;
 }
 
 li {
-  margin-right: 1rem;
+  margin-right: 3rem;
+}
+
+li:hover {
+  cursor: pointer;
+  color: #69e6a6;
 }
 
 button {
@@ -42,4 +48,8 @@ button {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+button:hover {
+  cursor: pointer;
 }
