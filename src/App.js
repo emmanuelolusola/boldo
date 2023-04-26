@@ -1,9 +1,14 @@
 import React from "react";
 
 import "./App.css";
+import MainSection from "./components/heroSection/mainSection/MainSection";
 
 const App = () => {
-  return <h1>App</h1>;
+  return (
+    <div>
+      <MainSection />
+    </div>
+  );
 };
 
 export default App;
