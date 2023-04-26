@@ -5,7 +5,7 @@ const mainSection = () => {
   return (
     <div>
       <NavBar />
-      <h1>Main Section</h1>
+      <div>MainSection</div>
     </div>
   );
 };
