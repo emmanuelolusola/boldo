@@ -82,3 +82,8 @@
   display: flex;
   justify-content: space-between;
 }
+
+.logo-white {
+  display: flex;
+  color: #fff;
+}

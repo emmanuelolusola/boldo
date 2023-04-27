@@ -6,6 +6,8 @@ import "./mainSection.css";
 import img1 from "../../../assets/img1.svg";
 import img2 from "../../../assets/img2.svg";
 import img3 from "../../../assets/img3.svg";
+import boldo from "../../../assets/boldo.svg";
+import presto from "../../../assets/presto.svg";
 
 const mainSection = () => {
   return (
@@ -34,6 +36,32 @@ const mainSection = () => {
               <img src={img2} alt="image2" />
               <img src={img3} alt="image3" />
             </div>
+          </div>
+        </div>
+        <div className="logo-white">
+          <div className="each">
+            <img src={boldo} alt="image2" />
+            <h1>Boldo</h1>
+          </div>
+          <div className="each">
+            <img src={presto} alt="image2" />
+            <h1>Presto</h1>
+          </div>
+          <div className="each">
+            <img src={boldo} alt="image2" />
+            <h1>Boldo</h1>
+          </div>
+          <div className="each">
+            <img src={presto} alt="image2" />
+            <h1>Presto</h1>
+          </div>
+          <div className="each">
+            <img src={boldo} alt="image2" />
+            <h1>Boldo</h1>
+          </div>
+          <div className="each">
+            <img src={presto} alt="image2" />
+            <h1>Presto</h1>
           </div>
         </div>
       </div>
