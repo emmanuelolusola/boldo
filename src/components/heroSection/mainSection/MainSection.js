@@ -40,28 +40,28 @@ const mainSection = () => {
         </div>
         <div className="logo-white">
           <div className="each">
-            <img src={boldo} alt="image2" />
-            <h1>Boldo</h1>
+            <img src={boldo} alt="boldo" />
+            <h1 className="h1">Boldo</h1>
           </div>
           <div className="each">
-            <img src={presto} alt="image2" />
-            <h1>Presto</h1>
+            <img src={presto} alt="presto" />
+            <h1 className="h1">Presto</h1>
           </div>
           <div className="each">
-            <img src={boldo} alt="image2" />
-            <h1>Boldo</h1>
+            <img src={boldo} alt="boldo" />
+            <h1 className="h1">Boldo</h1>
           </div>
           <div className="each">
-            <img src={presto} alt="image2" />
-            <h1>Presto</h1>
+            <img src={presto} alt="presto" />
+            <h1 className="h1">Presto</h1>
           </div>
           <div className="each">
-            <img src={boldo} alt="image2" />
-            <h1>Boldo</h1>
+            <img src={boldo} alt="boldo" />
+            <h1 className="h1">Boldo</h1>
           </div>
           <div className="each">
-            <img src={presto} alt="image2" />
-            <h1>Presto</h1>
+            <img src={presto} alt="presto" />
+            <h1 className="h1">Presto</h1>
           </div>
         </div>
       </div>
