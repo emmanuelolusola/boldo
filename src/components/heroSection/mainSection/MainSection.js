@@ -31,10 +31,10 @@ const mainSection = () => {
             </div>
           </div>
           <div className="right">
-            <img src={img1} alt="image1" />
+            <img src={img1} alt="image1" className="hero-image" />
             <div className="right-down">
-              <img src={img2} alt="image2" />
-              <img src={img3} alt="image3" />
+              <img src={img2} alt="image2" className="hero-image" />
+              <img src={img3} alt="image3" className="hero-image" />
             </div>
           </div>
         </div>

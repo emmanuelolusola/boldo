@@ -27,6 +27,14 @@
   padding-right: 15%;
 }
 
+.hero-image {
+  transition: transform 0.2s ease-in-out;
+}
+
+.hero-image:hover {
+  transform: scale(1.2);
+}
+
 .h1-main {
   color: #fff;
   font-size: 64px;
@@ -93,6 +101,11 @@
 
 .each {
   display: flex;
+  transition: transform 0.2s ease-in-out;
+}
+
+.each:hover {
+  transform: scale(1.2);
 }
 
 .h1 {
