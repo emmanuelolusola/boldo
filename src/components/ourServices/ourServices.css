@@ -1,0 +1,17 @@
+.services-container {
+  margin-top: 4rem;
+  font-family: "Manrope", san-serif;
+}
+
+.p-services-top {
+  text-align: center;
+  color: #777777;
+  font-size: 20px;
+}
+
+.p-services-bottom {
+  text-align: center;
+  font-size: 48px;
+  line-height: 72px;
+  margin-top: 1rem;
+}

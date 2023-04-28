@@ -14,7 +14,9 @@ const OurServices = () => {
         <div className="services-header">
           <p className="p-services-top">Our Services</p>
           <p className="p-services-bottom">
-            Handshake infographic boldo mass market crowdfunding iteration.
+            Handshake infographic boldo mass
+            <br />
+            market crowdfunding iteration.
           </p>
         </div>
         <div className="services-grid">
