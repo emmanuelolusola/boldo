@@ -39,3 +39,13 @@
   line-height: 32px;
   color: #777777;
 }
+
+.explore-page {
+  display: flex;
+  font-size: 20px;
+  margin-top: 1rem;
+}
+
+.explore-p {
+  margin-right: 10px;
+}
