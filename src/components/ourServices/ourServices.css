@@ -48,4 +48,9 @@
 
 .explore-p {
   margin-right: 10px;
+  transition: transform 0.5s ease-in-out;
+}
+
+.explore-p:hover {
+  border-bottom: solid #000;
 }

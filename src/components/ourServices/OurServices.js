@@ -28,7 +28,7 @@ const OurServices = () => {
             </p>
             <div className="explore-page">
               <p className="explore-p">Explore page</p>
-              <img src={arrow} alt="arrow-right" />
+              <img src={arrow} alt="arrow-right" className="arrow" />
             </div>
           </div>
           <div className="services-grid-container">
@@ -39,7 +39,7 @@ const OurServices = () => {
             </p>
             <div className="explore-page">
               <p className="explore-p">Explore page</p>
-              <img src={arrow} alt="arrow-right" />
+              <img src={arrow} alt="arrow-right" className="arrow" />
             </div>
           </div>
           <div className="services-grid-container">
@@ -50,7 +50,7 @@ const OurServices = () => {
             </p>
             <div className="explore-page">
               <p className="explore-p">Explore page</p>
-              <img src={arrow} alt="arrow-right" />
+              <img src={arrow} alt="arrow-right" className="arrow" />
             </div>
           </div>
         </div>
