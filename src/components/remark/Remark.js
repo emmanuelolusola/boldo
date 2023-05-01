@@ -29,6 +29,7 @@ const Remark = () => {
             <img src={check} alt="check" />
             <p className="r-p">Business-to-consumer long tail.</p>
           </div>
+          <button className="r-button">Start now</button>
         </div>
       </div>
       <div className="remark-bottom"></div>
