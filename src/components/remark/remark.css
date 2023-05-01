@@ -3,10 +3,12 @@
   padding: 0 15%;
 }
 
-.remark-top {
+.remark-top,
+.remark-bottom {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 40px;
 }
 
 .r-right {
