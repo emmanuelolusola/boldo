@@ -8,3 +8,46 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.r-right {
+  width: 50%;
+}
+
+.r-header {
+  font-family: "Manrope", san-serif;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 56px;
+  margin-bottom: 40px;
+}
+
+.r-paragraph {
+  display: flex;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+.r-p {
+  font-family: "Manrope", san-serif;
+  margin-left: 1rem;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.r-button {
+  margin-top: 56px;
+  color: #fff;
+  background-color: #0a2640;
+  border: none;
+  border-radius: 56px;
+  width: 210px;
+  height: 60px;
+  padding: 16px 56px 16px 56px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  gap: 8px;
+}
