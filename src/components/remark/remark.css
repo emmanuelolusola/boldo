@@ -33,7 +33,25 @@
   display: flex;
   margin-bottom: 1rem;
   align-items: center;
-  box-shadow: 2px 2px 2px 4px #333333;
+  width: 500px;
+  height: 68px;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  padding-left: 20px;
+  margin-top: 1.5rem;
+}
+
+.r-paragraph-2-leaf {
+  display: flex;
+  margin-bottom: 1rem;
+  align-items: center;
+  width: 500px;
+  height: 68px;
+  background-color: #0a2640;
+  color: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  padding-left: 20px;
 }
 
 .r-p {
@@ -42,6 +60,12 @@
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
+}
+
+.r-p-2 {
+  font-size: 16px;
+  margin-left: 12px;
+  font-family: "Manrope", san-serif;
 }
 
 .r-button {

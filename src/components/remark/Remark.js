@@ -42,17 +42,17 @@ const Remark = () => {
             We connect our customers with the best, and help them keep up-and
             stay open.
           </p>
-          <div className="r-paragraph-2">
+          <div className="r-paragraph-2-leaf">
             <img src={leaf} alt="check" />
-            <p className="r-p">We connect our customers with the best.</p>
+            <p className="r-p-2">We connect our customers with the best.</p>
           </div>
           <div className="r-paragraph-2">
             <img src={eye} alt="check" />
-            <p className="r-p">Advisor success customer launch party.</p>
+            <p className="r-p-2">Advisor success customer launch party.</p>
           </div>
           <div className="r-paragraph-2">
             <img src={sun} alt="check" />
-            <p className="r-p">Business-to-consumer long tail.</p>
+            <p className="r-p-2">Business-to-consumer long tail.</p>
           </div>
         </div>
         <div className="r-left">
