@@ -29,6 +29,12 @@
   align-items: center;
 }
 
+.r-paragraph-2 {
+  display: flex;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
 .r-p {
   font-family: "Manrope", san-serif;
   margin-left: 1rem;
