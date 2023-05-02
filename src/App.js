@@ -4,6 +4,7 @@ import "./App.css";
 import Blog from "./components/blog/Blog";
 import Connect from "./components/connect/Connect";
 import Contact from "./components/contact/Contact";
+import Comment from "./components/comment/Comment";
 import Footer from "./components/footer/Footer";
 import MainSection from "./components/heroSection/mainSection/MainSection";
 import OurServices from "./components/ourServices/OurServices";
@@ -15,6 +16,7 @@ const App = () => {
       <MainSection />
       <OurServices />
       <Remark />
+      <Comment />
       <Connect />
       <Blog />
       <Contact />
