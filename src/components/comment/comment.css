@@ -21,6 +21,8 @@
 
 .comment-input {
   margin-top: 2rem;
+  display: flex;
+  justify-content: center;
 }
 
 input {
@@ -32,4 +34,20 @@ input {
   font-size: 20px;
   color: #000;
   font-weight: 400;
+}
+
+.comment-button {
+  color: #0a2640;
+  background-color: #65e4a3;
+  border: none;
+  border-radius: 56px;
+  width: 210px;
+  height: 60px;
+  padding: 16px 56px 16px 56px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 1.5rem;
 }
