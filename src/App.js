@@ -16,10 +16,10 @@ const App = () => {
       <MainSection />
       <OurServices />
       <Remark />
-      <Comment />
       <Connect />
       <Blog />
       <Contact />
+      <Comment />
       <Footer />
     </div>
   );
