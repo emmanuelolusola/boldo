@@ -20,3 +20,38 @@
 .connect-arrow {
   margin-right: 20px;
 }
+
+.bottom {
+  margin-top: 72px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom-container {
+  background-color: #fff;
+  width: 350px;
+  border-radius: 12px;
+  padding: 40px;
+}
+
+.bottom-p {
+  font-family: "Manrope", san-serif;
+  font-size: 24px;
+  line-height: 36px;
+  margin-bottom: 40px;
+}
+
+.bottom-profile {
+  display: flex;
+  align-items: center;
+}
+
+.bottom-profile-sec {
+  margin-left: 16px;
+  font-family: "Manrope", san-serif;
+}
+
+.bottom-profile-name {
+  font-weight: 700;
+  margin-bottom: 6px;
+}
