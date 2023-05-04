@@ -1,0 +1,22 @@
+.connect-main {
+  background-color: #0a2640;
+  padding: 96px 15%;
+}
+
+.top {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Manrope", san-serif;
+  font-size: 48px;
+  line-height: 72px;
+}
+
+.connect-nav {
+  display: flex;
+  align-items: flex-end;
+}
+
+.connect-arrow {
+  margin-right: 20px;
+}

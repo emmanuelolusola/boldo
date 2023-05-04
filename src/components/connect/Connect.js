@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./connect.css";
+
 import arrowLeft from "../../assets/round-arrow-left.svg";
 import arrowRight from "../../assets/round-arrow-right.svg";
 import albus from "../../assets/albus.png";
@@ -15,7 +17,7 @@ const Connect = () => {
             An enterprise template to ramp up your company website
           </p>
           <div className="connect-nav">
-            <img src={arrowLeft} alt="arrow" />
+            <img src={arrowLeft} alt="arrow" className="connect-arrow" />
             <img src={arrowRight} alt="arrow" />
           </div>
         </div>
