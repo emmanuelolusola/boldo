@@ -8,6 +8,9 @@ const Blog = () => {
         <p className="blog-h">
           Value proposition accelerator product management venture
         </p>
+        <div className="blog-grid">
+          <div className="blog-grid-container"></div>
+        </div>
       </div>
     </div>
   );
