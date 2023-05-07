@@ -11,6 +11,7 @@ const Blog = () => {
         <div className="blog-grid">
           <div className="blog-grid-container"></div>
         </div>
+        <button className="load-button">Load more</button>
       </div>
     </div>
   );
