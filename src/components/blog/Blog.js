@@ -1,5 +1,12 @@
 import React from "react";
 
+import cate1 from "../../assets/cate1.png";
+import cate2 from "../../assets/cate2.png";
+import cate3 from "../../assets/cate3.png";
+import chand from "../../assets/chand.png";
+import rach from "../../assets/rach.png";
+import mon from "../../assets/mon.png";
+
 const Blog = () => {
   return (
     <div className="blog-main">
@@ -9,7 +16,48 @@ const Blog = () => {
           Value proposition accelerator product management venture
         </p>
         <div className="blog-grid">
-          <div className="blog-grid-container"></div>
+          <div className="blog-grid-container">
+            <img src={cate1} alt="category" />
+            <div className="blog-cate">
+              <p className="blog-cate-h">Category</p>
+              <p className="blog-cate-p">November 22, 2021</p>
+            </div>
+            <p className="blog-p">
+              Pitch termsheet backing validation focus release.
+            </p>
+            <div className="blog-profile">
+              <img src={chand} alt="profile" />
+              <p className="blog-profile-name">Chandler Bing</p>
+            </div>
+          </div>
+          <div className="blog-grid-container">
+            <img src={cate1} alt="category" />
+            <div className="blog-cate">
+              <p className="blog-cate-h">Category</p>
+              <p className="blog-cate-p">November 22, 2021</p>
+            </div>
+            <p className="blog-p">
+              Pitch termsheet backing validation focus release.
+            </p>
+            <div className="blog-profile">
+              <img src={chand} alt="profile" />
+              <p className="blog-profile-name">Chandler Bing</p>
+            </div>
+          </div>
+          <div className="blog-grid-container">
+            <img src={cate1} alt="category" />
+            <div className="blog-cate">
+              <p className="blog-cate-h">Category</p>
+              <p className="blog-cate-p">November 22, 2021</p>
+            </div>
+            <p className="blog-p">
+              Pitch termsheet backing validation focus release.
+            </p>
+            <div className="blog-profile">
+              <img src={chand} alt="profile" />
+              <p className="blog-profile-name">Chandler Bing</p>
+            </div>
+          </div>
         </div>
         <button className="load-button">Load more</button>
       </div>
