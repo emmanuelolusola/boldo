@@ -31,7 +31,7 @@ const Blog = () => {
             </div>
           </div>
           <div className="blog-grid-container">
-            <img src={cate1} alt="category" />
+            <img src={cate2} alt="category" />
             <div className="blog-cate">
               <p className="blog-cate-h">Category</p>
               <p className="blog-cate-p">November 22, 2021</p>
@@ -40,12 +40,12 @@ const Blog = () => {
               Pitch termsheet backing validation focus release.
             </p>
             <div className="blog-profile">
-              <img src={chand} alt="profile" />
+              <img src={rach} alt="profile" />
               <p className="blog-profile-name">Chandler Bing</p>
             </div>
           </div>
           <div className="blog-grid-container">
-            <img src={cate1} alt="category" />
+            <img src={cate3} alt="category" />
             <div className="blog-cate">
               <p className="blog-cate-h">Category</p>
               <p className="blog-cate-p">November 22, 2021</p>
@@ -54,7 +54,7 @@ const Blog = () => {
               Pitch termsheet backing validation focus release.
             </p>
             <div className="blog-profile">
-              <img src={chand} alt="profile" />
+              <img src={mon} alt="profile" />
               <p className="blog-profile-name">Chandler Bing</p>
             </div>
           </div>
