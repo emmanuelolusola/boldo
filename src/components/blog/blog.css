@@ -1,0 +1,12 @@
+.blog-container {
+  margin-top: 8rem;
+  padding: 0 15%;
+}
+
+.blog-p {
+  text-align: center;
+  color: #777777;
+  font-size: 20px;
+  font-family: "Manrope", san-serif;
+  margin-bottom: 2rem;
+}

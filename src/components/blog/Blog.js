@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./blog.css";
+
 import cate1 from "../../assets/cate1.png";
 import cate2 from "../../assets/cate2.png";
 import cate3 from "../../assets/cate3.png";
@@ -22,7 +24,7 @@ const Blog = () => {
               <p className="blog-cate-h">Category</p>
               <p className="blog-cate-p">November 22, 2021</p>
             </div>
-            <p className="blog-p">
+            <p className="blog-cate-para">
               Pitch termsheet backing validation focus release.
             </p>
             <div className="blog-profile">
@@ -36,7 +38,7 @@ const Blog = () => {
               <p className="blog-cate-h">Category</p>
               <p className="blog-cate-p">November 22, 2021</p>
             </div>
-            <p className="blog-p">
+            <p className="blog-cate-para">
               Seed round direct mailing non-disclosure agreement graphical user
               interface rockstar.
             </p>
@@ -51,7 +53,7 @@ const Blog = () => {
               <p className="blog-cate-h">Category</p>
               <p className="blog-cate-p">November 22, 2021</p>
             </div>
-            <p className="blog-p">
+            <p className="blog-cate-para">
               Beta prototype sales iPad gen-z marketing network effects value
               proposition
             </p>
