@@ -37,11 +37,12 @@ const Blog = () => {
               <p className="blog-cate-p">November 22, 2021</p>
             </div>
             <p className="blog-p">
-              Pitch termsheet backing validation focus release.
+              Seed round direct mailing non-disclosure agreement graphical user
+              interface rockstar.
             </p>
             <div className="blog-profile">
               <img src={rach} alt="profile" />
-              <p className="blog-profile-name">Chandler Bing</p>
+              <p className="blog-profile-name">Rachel Green</p>
             </div>
           </div>
           <div className="blog-grid-container">
@@ -51,11 +52,12 @@ const Blog = () => {
               <p className="blog-cate-p">November 22, 2021</p>
             </div>
             <p className="blog-p">
-              Pitch termsheet backing validation focus release.
+              Beta prototype sales iPad gen-z marketing network effects value
+              proposition
             </p>
             <div className="blog-profile">
               <img src={mon} alt="profile" />
-              <p className="blog-profile-name">Chandler Bing</p>
+              <p className="blog-profile-name">Monica Geller</p>
             </div>
           </div>
         </div>
