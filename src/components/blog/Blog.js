@@ -15,7 +15,7 @@ const Blog = () => {
       <div className="blog-container">
         <p className="blog-p">Our blog</p>
         <p className="blog-h">
-          Value proposition accelerator product management venture
+          Value proposition accelerator product <br /> management venture
         </p>
         <div className="blog-grid">
           <div className="blog-grid-container">
