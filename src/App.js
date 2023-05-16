@@ -17,8 +17,8 @@ const App = () => {
       <OurServices />
       <Remark />
       <Connect />
-      <Blog />
       <Contact />
+      <Blog />
       <Comment />
       <Footer />
     </div>

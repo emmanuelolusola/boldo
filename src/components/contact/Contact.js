@@ -1,7 +1,17 @@
 import React from "react";
 
+import "./contact.css";
+
+import Image from "../../assets/Image.png";
+
 const Contact = () => {
-  return <div>Contact</div>;
+  return (
+    <div className="contact-main">
+      <div className="contact-container">
+        <img src={Image} alt="contact" />
+      </div>
+    </div>
+  );
 };
 
 export default Contact;
