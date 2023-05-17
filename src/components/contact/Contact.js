@@ -9,6 +9,7 @@ const Contact = () => {
     <div className="contact-main">
       <div className="contact-container">
         <img src={Image} alt="contact" />
+        <div className="contact-bottom"></div>
       </div>
     </div>
   );
